@@ -1,0 +1,8 @@
+.review_header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.review_star {
+  color: #ffaa00;
+}
